@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food",
-    "slug": "food",
+    "name": "Restaurant-App",
+    "slug": "restaurant-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Just a basic restaurant finding app using the yelp API."
   }
 }
